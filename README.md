@@ -4,15 +4,15 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
 📊 Overview -
    This dashboard offers insights into:
 
-   Total insurance claims
+        Total insurance claims
 
-   Fraud vs non-fraud breakdown
+        Fraud vs non-fraud breakdown
 
-   State-wise and gender-wise trends
+        State-wise and gender-wise trends
 
-   Hourly incident patterns
+        Hourly incident patterns
 
-   Vehicle age vs claim frequency
+        Vehicle age vs claim frequency
 
 
 📌 Key Metrics from Dashboard 
