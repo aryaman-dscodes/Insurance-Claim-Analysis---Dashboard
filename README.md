@@ -15,8 +15,6 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Vehicle age vs claim frequency
 
 
-
-
 📌 Key Metrics from Dashboard 
 
    Total Claims: 1,000
@@ -30,8 +28,6 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Fraudulent Claims: 25%
 
 
-
-
 📍 State-wise Insights:
 
    Ohio: 352 claims (35.2%), $18.5M, 26% fraud
@@ -41,15 +37,11 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Indiana: 310 claims (31%), $16.4M, 25% fraud
 
 
-
-
 👥 Gender-wise:
 
    Female: 537 claims (54%), 77% non-fraud
 
    Male: 463 claims (46%), 74% non-fraud
-
-
 
 
 ⏰ Incident Hour Trends:
@@ -58,8 +50,6 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
 
    Lowest at 5AM and 11AM
  
-
-
 
 🚙 Vehicle Age Distribution:
 
@@ -70,8 +60,6 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Below 5 years: 23.9%
 
    11–15 years: 22.3% (least common)
-
-
 
 
 🛠 Tech Stack
