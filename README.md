@@ -1,7 +1,7 @@
 # Insurance-Claim-Analysis---Dashboard
 This repository contains a comprehensive dashboard visualizing and analyzing insurance claims data. The dashboard presents key metrics and trends to provide insights into fraudulent claims, gender-wise and state-wise claim patterns, incident timing, and vehicle age-related claim behavior.
 
-📊 Overview
+📊 Overview -
    This dashboard offers insights into:
 
    Total insurance claims
@@ -15,7 +15,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Vehicle age vs claim frequency
 
 
-📌 Key Metrics from Dashboard
+📌 Key Metrics from Dashboard 
 
    Total Claims: 1,000
 
