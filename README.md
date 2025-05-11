@@ -64,7 +64,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
 
 🛠 Tech Stack
 
-   Power BI (for data visualization - specify based on actual implementation)
+   Power BI (for data visualization)
 
    Data Cleaning and Transformation (via Pandas)
 
