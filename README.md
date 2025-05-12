@@ -28,8 +28,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Fraudulent Claims: 25%
 
 
-📍 **State-wise Insights:
-**
+📍 **State-wise Insights:**
    Ohio: 352 claims (35.2%), $18.5M, 26% fraud
 
    Illinois: 338 claims (33.8%), $17.9M, 23% fraud
@@ -37,7 +36,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    Indiana: 310 claims (31%), $16.4M, 25% fraud
 
 
-👥 Gender-wise:
+👥 **Gender-wise:**
 
    Female: 537 claims (54%), 77% non-fraud
 
