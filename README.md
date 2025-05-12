@@ -17,55 +17,55 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
 
 📌 **Key Metrics from Dashboard** 
 
-   Total Claims: 1,000
+   - Total Claims: 1,000
 
-   Non-Fraud Claims: 753
+   - Non-Fraud Claims: 753
 
-   Accepted Claim Amount: $38M
+   - Accepted Claim Amount: $38M
 
-   Total Claim Amount: $53M
+   - Total Claim Amount: $53M
 
-   Fraudulent Claims: 25%
+   - Fraudulent Claims: 25%
 
 
 📍 **State-wise Insights:**
-   Ohio: 352 claims (35.2%), $18.5M, 26% fraud
+   - Ohio: 352 claims (35.2%), $18.5M, 26% fraud
 
-   Illinois: 338 claims (33.8%), $17.9M, 23% fraud
+   - Illinois: 338 claims (33.8%), $17.9M, 23% fraud
 
-   Indiana: 310 claims (31%), $16.4M, 25% fraud
+   - Indiana: 310 claims (31%), $16.4M, 25% fraud
 
 
 👥 **Gender-wise:**
 
-   Female: 537 claims (54%), 77% non-fraud
+   - Female: 537 claims (54%), 77% non-fraud
 
-   Male: 463 claims (46%), 74% non-fraud
+   - Male: 463 claims (46%), 74% non-fraud
 
 
 ⏰ **Incident Hour Trends:**
 
-   Peaks around 1AM, 3AM, and 4PM
+   - Peaks around 1AM, 3AM, and 4PM
 
-   Lowest at 5AM and 11AM
+   - Lowest at 5AM and 11AM
  
 
 🚙 **Vehicle Age Distribution:**
 
-   5–10 years: 30.4% (most common)
+   - 5–10 years: 30.4% (most common)
 
-   Above 15 years: 23.4%
+   - Above 15 years: 23.4%
 
-   Below 5 years: 23.9%
+   - Below 5 years: 23.9%
 
-   11–15 years: 22.3% (least common)
+   - 11–15 years: 22.3% (least common)
 
 
 🛠 **Tech Stack**
 
-   Power BI (for data visualization)
+   - Power BI (for data visualization)
 
-   Data Cleaning and Transformation (via Pandas)
+   - Data Cleaning and Transformation (via Pandas)
 
-   Chart Types: Pie Charts, Bar Graphs, Line Graphs, Donut Charts
+   - Chart Types: Pie Charts, Bar Graphs, Line Graphs, Donut Charts
 
