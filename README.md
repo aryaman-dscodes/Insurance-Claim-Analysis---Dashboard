@@ -2,17 +2,17 @@
 This repository contains a comprehensive dashboard visualizing and analyzing insurance claims data. The dashboard presents key metrics and trends to provide insights into fraudulent claims, gender-wise and state-wise claim patterns, incident timing, and vehicle age-related claim behavior.
 
 📊 **Overview** -
-   This dashboard offers insights into:<br/>
+   This dashboard offers insights into:
 
-   Total insurance claims
+   - Total insurance claims
 
-   Fraud vs non-fraud breakdown
+   - Fraud vs non-fraud breakdown
 
-   State-wise and gender-wise trends
+   - State-wise and gender-wise trends
 
-   Hourly incident patterns
+   - Hourly incident patterns
 
-   Vehicle age vs claim frequency
+   - Vehicle age vs claim frequency
 
 
 📌 **Key Metrics from Dashboard** 
