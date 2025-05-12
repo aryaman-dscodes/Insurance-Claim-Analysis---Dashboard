@@ -1,7 +1,7 @@
 # Insurance-Claim-Analysis---Dashboard
 This repository contains a comprehensive dashboard visualizing and analyzing insurance claims data. The dashboard presents key metrics and trends to provide insights into fraudulent claims, gender-wise and state-wise claim patterns, incident timing, and vehicle age-related claim behavior.
 
-📊 **Overview** -
+# 📊 **Overview** -
    _This dashboard offers insights into_:
 
    - Total insurance claims
@@ -15,7 +15,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    - Vehicle age vs claim frequency
 
 
-📌 **Key Metrics from Dashboard** 
+# 📌 **Key Metrics from Dashboard** 
 
    - Total Claims: 1,000
 
@@ -28,7 +28,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    - Fraudulent Claims: 25%
 
 
-📍 **State-wise Insights:**
+# 📍 **State-wise Insights:**
    - Ohio: 352 claims (35.2%), $18.5M, 26% fraud
 
    - Illinois: 338 claims (33.8%), $17.9M, 23% fraud
@@ -36,21 +36,21 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    - Indiana: 310 claims (31%), $16.4M, 25% fraud
 
 
-👥 **Gender-wise:**
+# 👥 **Gender-wise:**
 
    - Female: 537 claims (54%), 77% non-fraud
 
    - Male: 463 claims (46%), 74% non-fraud
 
 
-⏰ **Incident Hour Trends:**
+# ⏰ **Incident Hour Trends:**
 
    - Peaks around 1AM, 3AM, and 4PM
 
    - Lowest at 5AM and 11AM
  
 
-🚙 **Vehicle Age Distribution:**
+# 🚙 **Vehicle Age Distribution:**
 
    - 5–10 years: 30.4% (most common)
 
@@ -61,7 +61,7 @@ This repository contains a comprehensive dashboard visualizing and analyzing ins
    - 11–15 years: 22.3% (least common)
 
 
-🛠 **Tech Stack**
+# 🛠 **Tech Stack**
 
    - Power BI (for data visualization)
 
